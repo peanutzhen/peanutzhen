@@ -1,4 +1,4 @@
-## Hey, I am peanutzhen <img src="./gifs/hi.gif" width="30px"></h2>
+## Hey, I am peanutzhen <img src="https://github.com/peanutzhen/peanutzhen/raw/master/gifs/Hi.gif" width="30px"></h2>
 
 ### 全体起立🤩 ![](https://visitor-badge.glitch.me/badge?page_id=peanutzhen.peanutzhen)
 
