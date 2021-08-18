@@ -5,7 +5,7 @@
 - 🔭 [JNU](https://jnu.edu.cn/)在读
 - 🌱 学习分布式系统中🚀
 - 📫 社交: [LinkedIn](https://www.linkedin.com/in/%E6%B4%9B%E7%94%9F-%E7%94%84-41b71b18a/) | [知乎](https://www.zhihu.com/people/zhen-luo-sheng)
-- 💻 技术栈: C, Golang, Python, Java, Grpc, Etcd, MySQL, Git, Docker...
+- 💻 技术栈: C/C++, Golang, Java, Python, Grpc, Etcd, MySQL, Git, Docker...
 
 ### 快来点赞我的库库❤️人家需要你老铁
 
