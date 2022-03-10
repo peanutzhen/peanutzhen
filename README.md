@@ -1,3 +1,3 @@
-最近在忙毕设
+<del>Inspire Creativity Enrich Life!</del>
 
-Give up involution, and enjoy your life. ![](https://visitor-badge.glitch.me/badge?page_id=peanutzhen.peanutzhen)
+Reject Rat Race Embrace Lying Flat! ![](https://visitor-badge.glitch.me/badge?page_id=peanutzhen.peanutzhen)
